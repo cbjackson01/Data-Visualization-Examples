@@ -8,27 +8,27 @@ There are 2 ways to access this application:
 
 
 ## Visualization Overview:
-Gender pay differentials
+### Gender pay differentials
 * Compares earnings between men and women two and four years after graduation.
 * Users can analyze how wage gaps change across different education levels. 
 
-## SAT Score Distribution
+### SAT Score Distribution
 * Illustrates how a school’s selectivity correlates with accepted students' average SAT scores.
 * Note: U.S. institutions weigh SAT scores differently in admissions decisions.
 
-## Tuition Cost By Region
+### Tuition Cost By Region
 * A static map visualizing the geographic distribution of the most expensive institutions in the U.S.
 
 
-## Income vs Student Debt
+### Income vs Student Debt
 * This page compares the average debt incurred by students matriculating from the university with the average household income for those attending the school. This is separated by the region where the school is located.
 
-## Underemployment by category
+### Underemployment by category
 * Allows users to compare underemployment rates for specific demographic groups against the national average.
 * Users can filter by age, gender, race, and education level.
 
 
-## Wage Growth with Education:
+### Wage Growth with Education:
 * Tracks how earnings differ between individuals with only a high school diploma versus those with a bachelor’s degree over time.
 * Users can view data as raw earnings or adjusted for inflation.
 
